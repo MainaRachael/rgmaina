@@ -1,0 +1,6 @@
+#Ignore all .env files
+*.env
+#Ignore all .log files
+*.log
+#Exclude the Important.log file from being ignored
+!Important.log
